@@ -3,7 +3,7 @@
 
 This project aims to *require* me to be more productive. I find quite often that I have many goals I'd like to achieve, however, they get thrown by the wayside when I *ehem* "readjust" my priorities last minute.
 
-This project is inspired by: 
+This project is inspired by: <br>
 <img src="http://2.bp.blogspot.com/-hCr8Fl35hPo/Up6alTouWBI/AAAAAAAAFjU/Ndwp6vf0YqU/s1600/carpet+alarm.png"/>
 
 Which is an alarm clock that forces you to get up in the morning.
