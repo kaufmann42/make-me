@@ -14,8 +14,8 @@ The **plan** is to have a server(-less ?) (I'm thinking AWS Lambda) that will ba
 #### Examples:
 <table>
   <tr>
-    <th>Requirement<th>
-    <th>Result<th>
+    <th>Requirement</th>
+    <th>Result</th>
   </tr>
   <tr>
     <td>10 commits a month to open source projects.</td>
