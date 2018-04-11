@@ -8,6 +8,15 @@ This project is inspired by: <br>
 
 Which is an alarm clock that forces you to get up in the morning.
 
+The first phase of the project will probably just be social media (and other time-waster) password changing until a criteria is met. Below is a first stab at a feature set required to enable that.
+
+#### Feature Set
+* Change PW for:
+  * instagram
+  * facebook
+  * twitter
+
+
 ### Technical Details
 The **plan** is to have a server(-less ?) (I'm thinking AWS Lambda) that will basically check on pre-determined requirements to make sure they've been done, if they aren't something is taken away.
 
